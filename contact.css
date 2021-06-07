@@ -37,18 +37,29 @@ body {
     color: white;
 }
 
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 40px;
-    width: 30%;
-    border: solid skyblue;
+h2 {
+    color: white;
+    text-align: center;
 }
 
-p {
+a {
+    color: skyblue;
+}
+
+h3 {
+    color: skyblue;
+}
+
+.container {
+    background-color: #333;
+    width: 65%;
+    margin-top: 75px;
+    margin-left: 250px;
+    border: dotted skyblue;
+}
+
+h1 {
+    color: skyblue;
     text-align: center;
-    font-size: 20px;
-    color: white;
-    margin-bottom: 40px;
+    margin-top: 70px;
 }
